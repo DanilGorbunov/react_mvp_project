@@ -8,3 +8,4 @@ Add products on a site
 3) Add products on a site
 4) Able to change category
 5) Search
+6) Monetization - monthly subscription
