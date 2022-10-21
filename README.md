@@ -1,7 +1,7 @@
 # react_mvp_project
 Add products on a site
 
-![Optional Text](xmotive/assets/Images/markdown.jpeg)
+![Optional Text](react.jpeg)
 
 1) My old Сommercial Flutter Project on React. I create only pages, I did't do API connect
 2) Login, verification
